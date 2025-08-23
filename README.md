@@ -1,6 +1,17 @@
+
+# 🌐 Socially
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+---
+
+## 🚀 Showcase
+
+<p align="center">
+  <img src="src/assets/demo.jpg" alt="Socially Demo Screenshot" width="800"/>
+</p>
+
+---
 
 First, run the development server:
 
